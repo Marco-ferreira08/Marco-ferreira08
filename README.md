@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi ! My name is Marco and I'm a Dev Front-End / Python</h2>
+<h2 align="left">Hi ! My name is Marco and I'm a Dev Full Stack </h2>
 
 ###
 
